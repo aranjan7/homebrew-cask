@@ -1,7 +1,7 @@
 cask "mpl" do
 
   version "v0.9.1"
-  sha256 "40b11dd71a1a28f2525e9f20466eb26c2cfdd35023a13ad7207e71e837047d5f"
+  sha256 "447449cf5c516f72d90520d474431b4f8ca097869bf807c6d2e43081e3366895"
 
   url "https://github.com/aranjan7/try-rel/releases/download/#{version}/mpl-#{version}-darwin-universal.zip"
   name "Mpl repl"
