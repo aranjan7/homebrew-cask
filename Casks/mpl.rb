@@ -1,4 +1,4 @@
-cask "go-agent" do
+cask "mpl" do
 
   version "v0.9.1"
   sha256 "40b11dd71a1a28f2525e9f20466eb26c2cfdd35023a13ad7207e71e837047d5f"
